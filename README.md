@@ -1,7 +1,3 @@
-Here’s the **fully updated** README, incorporating all your tools, libraries, and frameworks while keeping the **About Me** section engaging and personal.  
-
----
-
 # 💫 About Me:
 Hey there! I'm **Shashwat**, an AI/ML engineer and quant enthusiast who loves building **intelligent systems that push boundaries**. Whether it’s **training deep learning models, fine-tuning LLMs, designing reinforcement learning agents, or crafting financial AI systems**, I thrive on solving complex problems with code.  
 
