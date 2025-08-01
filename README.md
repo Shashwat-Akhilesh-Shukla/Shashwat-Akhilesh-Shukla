@@ -20,10 +20,10 @@ Off the clock, I’m a strategist at heart—hooked on chess, F1, cricket, and t
   <a href="https://shashwat-shukla.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://www.codewars.com/users/Shashwat-Akhilesh-Shukla">
+  <a href="https://www.codewars.com/users/Shashwat%20Shukla">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars"/>
   </a>
-  <a href="https://leetcode.com/shashwat_shukla">
+  <a href="https://leetcode.com/u/ShashwatShukla111/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
 </p>
