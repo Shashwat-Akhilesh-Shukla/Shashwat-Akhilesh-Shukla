@@ -57,7 +57,9 @@ Off the clock, I’m a strategist at heart—hooked on chess, F1, cricket, and t
 ![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)  ![Cron Jobs](https://img.shields.io/badge/Cron%20Jobs-%23007FFF.svg?style=for-the-badge)  
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shashwat-Akhilesh-Shukla&theme=dark&hide_border=false&include_all_commits=false&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=Shashwat-Akhilesh-Shukla&theme=dark&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashwat-Akhilesh-Shukla&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Shashwat-Akhilesh-Shukla&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Shashwat-Akhilesh-Shukla&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashwat-Akhilesh-Shukla&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shashwat-Akhilesh-Shukla&theme=radical&no-frame=false&no-bg=false&margin-w=4)
