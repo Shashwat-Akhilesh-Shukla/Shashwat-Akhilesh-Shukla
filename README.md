@@ -4,7 +4,7 @@ Hey there! I'm Shashwat, an AI/ML engineer and quant enthusiast who thrives on b
 
 My experience spans AI-driven finance, NLP, real-time systems, and quantitative modeling,and I’m constantly optimizing for performance, efficiency, and deployment at scale. You’ll often find me pushing the envelope with LLMs, reinforcement learning, stochastic processes, and high-frequency trading systems.
 
-Off the clock, I’m a strategist at heart—hooked on chess, F1, cricket, and the tactical mindset they demand. Always up for deep dives on AI, markets, or the future of intelligent systems.
+Off the clock, I’m a strategist at heart, hooked on chess, F1, cricket, and the tactical mindset they demand. Always up for deep dives on AI, markets, or the future of intelligent systems.
 
 📫 Reach me at shashwatakhileshshukla@gmail.com
 
