@@ -1,10 +1,16 @@
 # 💫 About Me:
 
-Hey there! I'm Shashwat, an AI/ML engineer and quant enthusiast who thrives on building intelligent systems that push boundaries. Whether it’s training deep learning models, fine-tuning LLMs, designing reinforcement learning agents, or architecting financial AI systems, I live for solving high-stakes problems with code.
+I’m Shashwat, an AI and ML engineer with a heavy bias toward systems that actually work under pressure.
 
-My experience spans AI-driven finance, NLP, real-time systems, and quantitative modeling,and I’m constantly optimizing for performance, efficiency, and deployment at scale. You’ll often find me pushing the envelope with LLMs, reinforcement learning, stochastic processes, and high-frequency trading systems.
+I build and deploy intelligent systems across LLMs, deep learning, reinforcement learning, and quantitative finance. My focus is not demos or toy notebooks. It is performance, latency, robustness, and scaling models into real systems that make decisions and move money.
 
-Off the clock, I’m a strategist at heart, hooked on chess, F1, cricket, and the tactical mindset they demand. Always up for deep dives on AI, markets, or the future of intelligent systems.
+I’ve worked across AI-driven finance, NLP, real-time pipelines, and quantitative modeling, with hands-on experience designing RAG systems, training neural networks, tuning stochastic models, and engineering end-to-end AI workflows. I care about clean architectures, measurable impact, and shipping systems that survive contact with reality.
+
+My interests sit at the intersection of LLMs, reinforcement learning, stochastic processes, and algorithmic trading. If it involves uncertainty, optimization, or adversarial conditions, I’m already interested.
+
+Outside of code, I’m wired for strategy. Chess, F1, and competitive sports keep the same muscle sharp: thinking ahead, exploiting inefficiencies, and staying calm when the clock is brutal.
+
+If you want to talk AI systems, markets, or building things that actually matter, you’re in the right place.
 
 📫 Reach me at shashwatakhileshshukla@gmail.com
 
