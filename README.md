@@ -12,6 +12,8 @@ Outside of code, I’m wired for strategy. Chess, F1, and competitive sports kee
 
 If you want to talk AI systems, markets, or building things that actually matter, you’re in the right place.
 
+Currently Working on AI Newsroom and Cognitive-AI
+
 📫 Reach me at shashwatakhileshshukla@gmail.com
 
 
