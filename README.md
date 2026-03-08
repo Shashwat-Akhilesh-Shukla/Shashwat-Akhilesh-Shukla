@@ -84,12 +84,19 @@ Currently Working on AI Newsroom and Cognitive-AI
 ![](https://nirzak-streak-stats.vercel.app/?user=Shashwat-Akhilesh-Shukla&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashwat-Akhilesh-Shukla&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Shashwat-Akhilesh-Shukla&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## 📈 Contribution Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shashwat-Akhilesh-Shukla&theme=react-dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Shashwat-Akhilesh-Shukla&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shashwat-Akhilesh-Shukla&theme=github_dark) 
 
----
-[![](https://visitcount.itsvg.in/api?id=Shashwat-Akhilesh-Shukla&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
+
+
+
+![](https://komarev.com/ghpvc/?username=Shashwat-Akhilesh-Shukla&color=blue)
+
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
