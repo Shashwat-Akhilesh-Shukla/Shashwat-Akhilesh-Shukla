@@ -1,20 +1,18 @@
 # 💫 About Me:
 
-I’m Shashwat, an AI and ML engineer with a heavy bias toward systems that actually work under pressure.
+I’m Shashwat, an AI engineer focused on building systems that hold up in production.
 
-I build and deploy intelligent systems across LLMs, deep learning, reinforcement learning, and quantitative finance. My focus is not demos or toy notebooks. It is performance, latency, robustness, and scaling models into real systems that make decisions and move money.
+I work on LLM systems, agentic workflows, and distributed AI infrastructure where latency, reliability, and cost actually matter. I’m not interested in demos or research-only ideas. I build systems that process real data, handle failure, and scale without breaking.
 
-I’ve worked across AI-driven finance, NLP, real-time pipelines, and quantitative modeling, with hands-on experience designing RAG systems, training neural networks, tuning stochastic models, and engineering end-to-end AI workflows. I care about clean architectures, measurable impact, and shipping systems that survive contact with reality.
+My work spans RAG pipelines, multi-agent systems, real-time inference, and financial AI. I’ve designed end-to-end architectures that go from raw data ingestion to decision-making outputs with strict constraints on performance and correctness. I care about measurable impact, not theoretical elegance.
 
-My interests sit at the intersection of LLMs, reinforcement learning, stochastic processes, and algorithmic trading. If it involves uncertainty, optimization, or adversarial conditions, I’m already interested.
+I operate at the intersection of LLMs, stochastic systems, and markets. If a system involves uncertainty, adversarial conditions, or optimization under constraints, it gets my attention.
 
-Outside of code, I’m wired for strategy. Chess, F1, and competitive sports keep the same muscle sharp: thinking ahead, exploiting inefficiencies, and staying calm when the clock is brutal.
+Outside engineering, I think in systems. Chess, F1, and competitive environments all revolve around the same principles: positioning, timing, and exploiting inefficiencies before others see them.
 
-If you want to talk AI systems, markets, or building things that actually matter, you’re in the right place.
+Currently building with LangGraph and pushing agentic systems toward production-grade reliability.
 
-Currently working on the LangGraph Open source project.
-
-📫 Reach me at shashwatakhileshshukla@gmail.com
+📫 shashwatakhileshshukla@gmail.com
 
 
 
